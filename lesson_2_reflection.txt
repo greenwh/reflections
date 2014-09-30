@@ -3,3 +3,9 @@ GIT creates a new repository in the current location.  If there are existing fil
 
 Why do you need to do it?
 A start point
+
+How is the staging area different from the working directory and the repository? 
+The repository is the tracking mechanism, the staging area is the basket for changes waiting to be committed and the working direcory is the overall physical location
+
+What value do you think it offers?
+differing levels of areas that allow step by step processing
