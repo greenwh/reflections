@@ -2,10 +2,17 @@ What happens when you initialize a repository?
 GIT creates a new repository in the current location.  If there are existing files it lists them as untracked.
 
 Why do you need to do it?
-A start point
+A start point.
 
 How is the staging area different from the working directory and the repository? 
-The repository is the tracking mechanism, the staging area is the basket for changes waiting to be committed and the working direcory is the overall physical location
+The repository is the tracking mechanism, the staging area is the basket for changes waiting to be committed and the working direcory is the overall physical location.
 
 What value do you think it offers?
-differing levels of areas that allow step by step processing
+differing levels of areas that allow step by step processing.
+
+What are some situations when branches would be helpful in keeping your history organized? 
+Before you start major revisions or experiments.
+
+How would branches help?
+By cutting a checkpoint, creating a new version to work on while leaving the old version intact.
+
