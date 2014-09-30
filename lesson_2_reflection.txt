@@ -1,0 +1,5 @@
+What happens when you initialize a repository? 
+GIT creates a new repository in the current location.  If there are existing files it lists them as untracked.
+
+Why do you need to do it?
+A start point
