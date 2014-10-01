@@ -16,3 +16,5 @@ Before you start major revisions or experiments.
 How would branches help?
 By cutting a checkpoint, creating a new version to work on while leaving the old version intact.
 
+How do the diagrams help you visualize the branch structure?
+By visually showing where commits and branches are you can gain a more thorough understanding of the structure and status of the repository
