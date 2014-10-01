@@ -18,3 +18,9 @@ By cutting a checkpoint, creating a new version to work on while leaving the old
 
 How do the diagrams help you visualize the branch structure?
 By visually showing where commits and branches are you can gain a more thorough understanding of the structure and status of the repository
+
+What is the result of merging two branches together? 
+combines the 2
+
+Why do we represent it in the diagram the way we do?
+graphical representation of the state of the repository
