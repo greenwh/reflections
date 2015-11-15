@@ -27,3 +27,4 @@ graphical representation of the state of the repository
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
 tracks merges and changes
+test
